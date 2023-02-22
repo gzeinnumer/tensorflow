@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=w_wgWuu-GVU&list=PLBKh3ZtuAtGFdmchLIvFxBFgnqCWPIQYP&index=3&ab_channel=JerryPeter
+
+https://js.tensorflow.org/api/latest/#Data

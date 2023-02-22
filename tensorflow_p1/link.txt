@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=-SCToOR9zjg&list=PLBKh3ZtuAtGFdmchLIvFxBFgnqCWPIQYP&index=2&ab_channel=JerryPeter
+
+https://www.tensorflow.org
+
+https://www.tensorflow.org/learn
+
+https://www.tensorflow.org/js
+
+https://www.tensorflow.org/js/demos
+
+https://www.tensorflow.org/js/models

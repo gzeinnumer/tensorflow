@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=YwZrD_IOYzs&list=PLBKh3ZtuAtGFdmchLIvFxBFgnqCWPIQYP&index=2&ab_channel=JerryPeter
+
+dapatkan cdn
+https://www.tensorflow.org/js/tutorials/setup
+
+https://js.tensorflow.org/api/latest/#Data
